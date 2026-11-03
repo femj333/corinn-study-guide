@@ -4,8 +4,8 @@ FLOW = {
     "root": (None, {"Categorical response variable\n": "cat",
                     "Numerical response variable\n": "num"}),
     ## categorical
-    "cat": ("How much empirical data", {"1 group empirical data\n": "cat1",
-                                        ">1 group empirical data\n": "cat_multi"}),
+    "cat": ("How much empirical data", {"1 group\n": "cat1",
+                                        ">1 group\n": "cat_multi"}),
     "cat1": ("Events", {"Dichotomous\n": "Binomial distribution",
                         "Rate\n": "Poisson distribution",
                         "Proportions\n": "Proportions test"}),
