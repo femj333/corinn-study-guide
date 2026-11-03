@@ -4,7 +4,7 @@
 Open your terminal
 1. type`mkdir fems_super_cool_study_guide` hit enter
 2. type `cd fems_super_cool_study_guide` hit enter
-3. type `git clone ` hit enter
+3. type `git clone https://github.com/femj333/corinn-study-guide.git` hit enter
 4. type `cd corinn-study-guide` hit enter
 5. type `python main.py` hit enter
 
